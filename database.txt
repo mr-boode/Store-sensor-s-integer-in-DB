@@ -1,0 +1,8 @@
+MariaDB [(none)]> create database SmartMethods;
+Query OK, 1 row affected (0.013 sec)
+
+MariaDB [(none)]> use SmartMethods
+Database changed
+MariaDB [SmartMethods]> Create table SmartMethodsData(Number int);
+Query OK, 0 rows affected (0.197 sec)
+
